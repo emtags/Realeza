@@ -54,8 +54,8 @@ return array(
 		'db'=>array(
 			'connectionString' => 'mysql:host=localhost;dbname=realeza',
 			'emulatePrepare' => true,
-			'username' => 'root',
-			'password' => '',
+			'username' => 'realeza',
+			'password' => 'realeza',
 			'charset' => 'utf8',
 		),
 		'errorHandler'=>array(

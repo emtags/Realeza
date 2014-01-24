@@ -1,0 +1,3 @@
+[submodule "js/plugins/geocomplete"]
+	path = js/plugins/geocomplete
+	url = https://github.com/emtags/geocomplete.git
